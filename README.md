@@ -1,6 +1,6 @@
-# SWITCH Website
+# BeyondMIC Website
 
-Website of first edition of the [SWITCH: Stroke Workshop on Imaging and Treatment CHallenges](http://switchmiccai.mit.edu). 
+[Beyond MIC](http://beyondmic.mit.edu/): integrating imaging and non-imaging modalities for healthcare challenges.
 
 
 ## Credits 
